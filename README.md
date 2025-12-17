@@ -14,4 +14,4 @@
 
 
 
-[![Said's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HiruyWorku&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Said's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=osimmov&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)

@@ -8,7 +8,7 @@
 -  **Current focus:** Front-end and full-stack web development, JavaScript, HTML, CSS, React, UI/UX design, and project-based learning.
 -  Building web apps, interactive projects, and educational platforms.
 
--  **Contact:** [Email](mailto:saidamirosimov2005@gmail.com) | [LinkedIn](https://www.linkedin.com/in/saidamir-osimov) | [Portfolio](https://saids-portfolio.netlify.app/portfolio-masonary)
+-  **Contact:** [Email](mailto:saidamirosimov2005@gmail.com) | [LinkedIn](https://www.linkedin.com/in/saidamir-osimov) | [Portfolio](https://portfolio-saidamir.netlify.app/)
 
 ---
 

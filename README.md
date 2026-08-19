@@ -9,7 +9,7 @@
 - 🎓 Final-year Computer Science student, background in competitive programming
 - 🔭 **Actively seeking full-time Software Engineering roles** for 2027 — open to relocation
 - 🛠️ Comfortable across the stack: React front ends, Java/Spring Boot APIs, SQL, and cloud-adjacent tooling
-- **Contact:** [Email](mailto:saidamirosimov2005@gmail.com) | [LinkedIn](https://www.linkedin.com/in/saidamir-osimov) | [Portfolio](https://portfolio-saidamir.netlify.app/) | [GitHub](https://github.com/osimmov)
+- **Contact:** [Email](mailto:saidamirosimov2005@gmail.com) | [LinkedIn](https://www.linkedin.com/in/saidamir-osimov) | [Portfolio](https://portfolio-saidamir.netlify.app/) 
 
 ---
 **Languages**
